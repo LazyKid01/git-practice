@@ -1,1 +1,8 @@
 # git-practice
+DevOps Courses
+1. Ansible
+2. Docker
+3. Kubernates
+4. Terraform
+5. Git/Github
+6. CI/CD
