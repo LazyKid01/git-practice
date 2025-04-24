@@ -6,3 +6,5 @@ DevOps Courses
 4. Terraform
 5. Git/Github
 6. CI/CD
+7. OpenShift
+8. VMware
